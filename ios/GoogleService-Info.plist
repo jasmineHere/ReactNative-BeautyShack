@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>147061296154-bfih9acjr478o5g37oub61t3veji9llv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.147061296154-bfih9acjr478o5g37oub61t3veji9llv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGXZfkFDJaYurQuTTCxcodCuNQKZ7_3IU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>147061296154</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.beautyshack.react</string>
+	<key>PROJECT_ID</key>
+	<string>runtime-terror-4ca71</string>
+	<key>STORAGE_BUCKET</key>
+	<string>runtime-terror-4ca71.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:147061296154:ios:8dc9664a56a5e58d9b55a3</string>
+	<key>DATABASE_URL</key>
+	<string>https://runtime-terror-4ca71-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

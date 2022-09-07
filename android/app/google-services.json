@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "147061296154",
+    "firebase_url": "https://runtime-terror-4ca71-default-rtdb.firebaseio.com",
+    "project_id": "runtime-terror-4ca71",
+    "storage_bucket": "runtime-terror-4ca71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147061296154:android:ea2e1c09624d541d9b55a3",
+        "android_client_info": {
+          "package_name": "com.beautyshack.react"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147061296154-730tdsb51pntvt2mckh8m8v9g2uvibfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXIaUNe60BGvYv1PlDiaD3yJ3GnrgdqZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147061296154-730tdsb51pntvt2mckh8m8v9g2uvibfi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "147061296154-0lk9f3hn2hgoatdrj5p7ejj0us0851cd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.RuntimeTerror"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
